@@ -1,7 +1,12 @@
+body{
+	padding: 50px;
+	background-color: FFB1A1;
+}
+
 h1{
-	color: blue;
+	color: red;
 }
 
 h3{
-	color: gray;
+	color: black;
 }
